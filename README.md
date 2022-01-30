@@ -1,4 +1,8 @@
-### Hi there 👋
+### Привет, меня зовут Евгений. Я начинащий python-разработчик.
+
+
+## Основной стек технологий
+
 
 <!--
 **EvgenyAlexandrov/EvgenyAlexandrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
