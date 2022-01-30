@@ -1,20 +1,22 @@
 ### Привет, меня зовут Евгений. Я начинащий python-разработчик.
 
+## МОЙ СТЕК ТЕХНОЛОГИЙ
+![Python](/svg/python.svg)
+![Django](/svg/django.svg)
+![HTML](/svg/html-5.svg)
+![CSS](/svg/css3.svg)
+![Git](/svg/git.svg)
 
-## Основной стек технологий
 
+## МОИ КОНТАКТЫ
+[<img src="./svg/telegram.svg">](https://t.me/nanofulLEreNe)
+[<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:zhenia250925@gmail.com)
 
-<!--
-**EvgenyAlexandrov/EvgenyAlexandrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=EvgenyAlexandrov&hide=contribs&show_icons=true&theme=dark">
+  <img  align="center" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=EvgenyAlexandrov&hide=contribs&show_icons=true&theme=dark" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenyAlexandrov&layout=compact&theme=dark">
+  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenyAlexandrov&layout=compact&theme=dark" />
+</a>
+</div>
