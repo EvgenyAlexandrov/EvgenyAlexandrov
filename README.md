@@ -6,7 +6,7 @@
 ![HTML](/svg/html-5.svg)
 ![CSS](/svg/css3.svg)
 ![Git](/svg/git.svg)
-
+<img align="left" alt="Visual Studio Code" width="90px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 ## МОИ КОНТАКТЫ
 [<img src="./svg/telegram.svg">](https://t.me/nanofulLEreNe)
