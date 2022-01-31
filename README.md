@@ -10,7 +10,7 @@
 
 ## МОИ КОНТАКТЫ
 [<img src="./svg/telegram.svg">](https://t.me/nanofulLEreNe)
-[<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:zhenia250925@gmail.com)
+[<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:zhenya2509@mail.ru)
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=EvgenyAlexandrov&hide=contribs&show_icons=true&theme=tokyonight">
